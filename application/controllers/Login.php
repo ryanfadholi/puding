@@ -24,6 +24,7 @@ class Login extends MY_Controller
 	{
 		redirect(base_url('assets/html/index.html'));
 	}
+
 }
 
 /* End of file Login.php */
